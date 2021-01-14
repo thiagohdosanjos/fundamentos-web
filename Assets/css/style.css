@@ -12,7 +12,6 @@
     flex-flow: row ;
     justify-content: center;
     align-items: center;
-
 }
 
 #menu li {
@@ -45,8 +44,8 @@
 }
     
 .wh-200{
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     padding: 30px;
 }
 
@@ -66,6 +65,15 @@
 
 /*Estilos da página contato.html*/
 
+.ml-10 {
+    margin-left: 10px;
+}
+
 .ml-50 {
     margin-left: 50px;
+}
+
+
+.ml-100 {
+    margin-left: 100px;
 }
